@@ -4,4 +4,4 @@
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chateauvisionn&layout=compact&theme=ayu-mirage)](https://github.com/Chateauvisionn/)
 
-[![Followers](https://img.shields.io/github/followers/Chateauvisionn?style=social)]
+<img src="https://img.shields.io/github/followers/Chateauvisionn?style=social">
